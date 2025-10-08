@@ -18,7 +18,7 @@ I am a full-stack developer with one year of experience in web environments. I e
 
 ## 🧠 Estoy aprendiendo...
 
-Especializándome actualmente en Angular y Next.js.
+Especializándome actualmente en Next.js.
 
 ## 😄 Pronouns...
 
